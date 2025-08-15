@@ -1,59 +1,97 @@
 <p align="center">
-  <a href="https://github.com/Shivam8100">
-    <img src="https://github.com/Shivam8100.png" alt="Shivam Ranjan" width="160" height="160" style="border-radius: 50%;"/>
-  </a>
+  <img src="https://github.com/Shivam8100.png" width="160" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Shivam Ranjan — Frontend Developer</h1>
+<h1 align="center">Hi 👋, I'm Shivam Ranjan</h1>
+<h3 align="center">Frontend Developer | React.js • Next.js • Playwright • SEO</h3>
 
 <p align="center">
-  <a href="https://thefrontify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio–Visit-blue?style=for-the-badge&amp;logo=about.me" alt="Portfolio">
+  <a href="https://shivam8100.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio–Visit-blue?style=for-the-badge" />
   </a>
-  <a href="https://drive.google.com/file/d/1hdY278asB31azGPgsbJq7G4xrXrufzta/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume–Download-green?style=for-the-badge&amp;logo=adobe-acrobat-reader" alt="Resume">
-  </a>
-</p>
-
----
-
-###  About Me
-
-- 🔭 **Currently working as:** Frontend Developer at **Truemeds**
-- 🌱 **Learning & Interests:** Exploring new software technologies and coding approaches
-- 👯 **Looking to collaborate on:** Innovative web projects—open to opportunities and ideas
-- 💬 **Ask me about:**  
-  *✨ “How can modern web animations elevate user experience?”*  
-  (Feel free to quiz me on front-end techniques, React tips, or CSS tricks!)
-- ⚡ **Fun fact:** I once built a mini-game using only CSS and HTML—no JavaScript!
-
----
-
-###  Get in Touch
-
-<div align="center">
   <a href="mailto:shivamranjan81@gmail.com">
-    <img src="https://img.shields.io/badge/Email–Reach%20Out-D14836?style=for-the-badge&amp;logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/📧 Email–Me-red?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/shivam-ranjan-b57a28150/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn–Connect-blue?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn–Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-</div>
-
----
-
-###  Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivam8100&amp;style=flat-square" alt="Profile views">
 </p>
 
 ---
 
-###  GitHub Stats
+### 👨‍💻 About Me
+
+- 💼 Currently working at **Truemeds** as a Frontend Developer  
+- 🚀 Passionate about building clean, fast, and accessible interfaces  
+- 🧠 Learning modern software architectures & frontend automation  
+- 🤝 Open to collaborate on **new ideas, startups & frontend projects**  
+- 💬 Ask me about:
+  - React performance optimization
+  - Testing with Playwright
+  - SEO strategies in SPAs
+  - Handling large-scale UIs
+
+- ⚡ Fun fact: I built a fully functional feature module without writing a single line of JavaScript — only with advanced CSS and semantic HTML 😄
+
+---
+
+### 🛠️ Skills & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css)
+![Material-UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui)
+![Ant Design](https://img.shields.io/badge/AntD-0170FE?style=flat&logo=ant-design)
+![Playwright](https://img.shields.io/badge/Playwright-47b17c?style=flat&logo=playwright)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=google-chrome)
+
+---
+
+### 💼 Work Highlights
+
+#### 🏢 **Truemeds (2023–Present)**  
+- Led frontend development across e-commerce, admin, and warehouse dashboards  
+- Boosted Core Web Vitals & SEO through deep React performance audits  
+- Integrated GA4 analytics & OpenGraph metadata  
+- Implemented **Playwright** automation to reduce bugs & enhance CI/CD
+
+#### 🧬 **Antino Labs (2021–2023)**  
+- 🚀 **My3DMeta**: Built Redux-based onboarding and invoice features  
+- 🎓 **TopFaculty**: Created rich onboarding flows with media upload features  
+- 📺 **Pluto TV**: Refactored custom video hook logic for performance  
+- 🥚 **Eggoz**: Handled complex admin order workflow & subscription calendar  
+- 🏙 **Gov CMS**: Built dashboard for Bihar Streetlight tracking
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam8100&amp;show_icons=true&amp;theme=radical" alt="GitHub stats">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam8100&amp;layout=compact&amp;theme=radical" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam8100&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam8100&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam8100&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📊 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivam8100&style=for-the-badge" alt="visitors" />
+</p>
+
+---
+
+### 📣 Let's Connect
+
+<p align="center">
+  <a href="mailto:shivamranjan81@gmail.com">📧 shivamranjan81@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/shivam-ranjan-b57a28150/">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Shivam8100">🐙 GitHub</a> &nbsp;|&nbsp;
+  <a href="https://shivam8100.github.io/portfolio/">🌐 Portfolio</a>
 </p>
