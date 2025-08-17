@@ -31,8 +31,6 @@
   - SEO strategies in SPAs
   - Handling large-scale UIs
 
-- ⚡ Fun fact: I built a fully functional feature module without writing a single line of JavaScript — only with advanced CSS and semantic HTML 😄
-
 ---
 
 ### 🛠️ Skills & Tools
