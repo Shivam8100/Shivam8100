@@ -91,5 +91,5 @@
   <a href="mailto:shivamranjan81@gmail.com">📧 shivamranjan81@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/shivam-ranjan-b57a28150/">🔗 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/Shivam8100">🐙 GitHub</a> &nbsp;|&nbsp;
-  <a href="https://shivam8100.github.io/portfolio/">🌐 Portfolio</a>
+  <a href="https://thefrontify.com/">🌐 Portfolio</a>
 </p>
